@@ -1,4 +1,4 @@
-var ver = "1.2.6";
+﻿var ver = "1.2.6";
 //设置通知永久音量。
 document.getElementById('notification').volume = 0.4;
 (function(){
